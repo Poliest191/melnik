@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border: 5px solid red;
+    display: flex;
+}
+.k{
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+}
+
+header img{
+    width:150px;
+    height:150px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    height: 25px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.r{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.l{
+    padding: 5px;
+    display: flex;
+    justify-content:center ;
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+footer{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
